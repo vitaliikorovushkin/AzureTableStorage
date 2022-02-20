@@ -1,0 +1,11 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "StorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=korovushkin;AccountKey=oDlojaV5I0Lyxm0AMWC/TIu8Q5su64gDOIfgPdOBN59uZh3pGZCzc87dSQt9wB98wZFUW0v1JKdV6fWHjNE84w==;EndpointSuffix=core.windows.net"
+}
